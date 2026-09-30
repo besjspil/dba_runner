@@ -1,0 +1,1 @@
+select con_id, con_name, instance_name, state, restricted from cdb_pdb_saved_states;
